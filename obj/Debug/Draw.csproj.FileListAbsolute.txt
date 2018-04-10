@@ -1,0 +1,20 @@
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\Novarto\Desktop\asd\trunk\1501261013\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\Ivaylo Radkov\Desktop\CGProject\bin\Debug\Draw.exe
+C:\Users\Ivaylo Radkov\Desktop\CGProject\bin\Debug\Draw.pdb
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.exe
+C:\Users\Ivaylo Radkov\Desktop\CGProject\obj\Debug\Draw.pdb
